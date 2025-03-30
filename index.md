@@ -30,7 +30,7 @@ Explora los fundamentos del pensamiento computacional y cómo Protobject facilit
 ## **2. Conocimiento de sensores y actuadores en smartphones**  
 Descubre cómo los sensores y actuadores permiten la interacción con el entorno.  
 
-- **🎥 [Introducción a sensores y actuadores](https://youtu.be/iwlztiWB1bc){:target="_blank"}**  
+- **🎥 [Introducción a sensores y actuadores](https://youtu.be/dgZ2Jk8_AOE){:target="_blank"}**  
   _Capacidades extendidas de los smartphones._  
 
 - **📄 [Sensores y actuadores en smartphones](https://docs.google.com/document/d/14ZLY-q-YR4PADQeq_nqyh29q7wkdVitMRFyFXYt8Sps/view){:target="_blank"}**  
