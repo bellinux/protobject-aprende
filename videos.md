@@ -17,6 +17,9 @@ Explora nuestras listas de reproducción seleccionadas diseñadas para ayudarte 
 Esta lista de reproducción te guía a través de proyectos prácticos y creativos hechos paso a paso utilizando Protobject. Ideal para aquellos que quieren aprender mientras construyen, cada proyecto está diseñado para enseñar conceptos de pensamiento computacional de manera interactiva y divertida.
 
 
+---
+
+
 {% include playlist_embed.html preview_video_id="4Ov--PkfDsc" playlist_link="https://www.youtube.com/watch?v=4Ov--PkfDsc&list=PLudqmkJ6JIlUwojRGp5sbHa47PTYHpPNK" %}
 
 
