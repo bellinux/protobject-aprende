@@ -1,5 +1,5 @@
 ---
-title: Projectos
+title: Proyectos
 nav_order: 20
 ---
 
