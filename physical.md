@@ -26,7 +26,7 @@ El siguiente video muestra c처mo controlar un **servo** utilizando un **potenci�
 
 {% include video_embed.html video_id="rfaN7I_fsaQ" %}
 
-[Ver el c처digo de ejemplo](https://app.protobject.com/generate?zz-arduinoservo&amp;es&amp;dynamic&amp;-0){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Ver el c처digo de ejemplo](https://app.protobject.com/generate?zz-arduinoservo&amp;es&amp;dynamic&amp;-1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 
 
@@ -40,7 +40,7 @@ A continuaci처n, se encuentra un video y el c처digo para un ejemplo de uso de Pr
 
 {% include video_embed.html video_id="dmJY-3cZqfU" %}
 
-[Ver el c처digo de ejemplo](https://app.protobject.com/generate?zz-robot2&amp;es&amp;dynamic&amp;-0){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
+[Ver el c처digo de ejemplo](https://app.protobject.com/generate?zz-robot2&amp;es&amp;dynamic&amp;-1){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 target="_blank"}
 
 
 ## **Componentes**  
