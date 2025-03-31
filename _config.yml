@@ -1,5 +1,6 @@
 remote_theme: just-the-docs/just-the-docs
 title: Aprende Protobject
-description: Materials, videos, documents, and more to help you learn Protobject.
+description: Materiali, video, documenti e altro per aiutarti a imparare Protobject.
+logo_link: "https://protobject.com"
 logo: "/assets/images/logo.svg"
 search_enabled: false
