@@ -26,3 +26,12 @@ desc_right="Esta lista de reproducción te introduce a los fundamentos de Protob
 
 
 
+{% include playlist_embed.html 
+preview_video_id_left="eJvEFlAZV94" 
+playlist_link_left="https://www.youtube.com/watch?v=eJvEFlAZV94&list=PLudqmkJ6JIlX4My0up7kfSAI7eAF2qAAB"
+title_left="Pensamiento Computacional para Docentes"
+desc_left="Explora el pensamiento computacional y descubre cómo Protobject facilita su enseñanza a través de la programación, sensores y aprendizaje basado en proyectos."
+
+
+%}
+
